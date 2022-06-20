@@ -8,3 +8,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 -2020
 Git diff 命令
+-2200
+Git tracks changes.
