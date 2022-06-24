@@ -12,3 +12,5 @@ Git diff 命令
 Git tracks changes.
 2022.06.22-1530
 Creating a new branch called dev.
+2022.06.24-0945
+Creating a new branch called dev.
