@@ -16,3 +16,4 @@ Creating a new branch called dev.
 Creating a new branch called dev.
 -1650
 创建 devToGitee 分支，并 push 到 gitee.
+Creating a new branch is quick & simple.
