@@ -16,3 +16,5 @@ Creating a new branch called dev.
 Creating a new branch called dev.
 -1650
 创建 devToGitee 分支，并 push 到 gitee.
+2022.06.29-1500
+Creating a new branch is quick AND simple.
