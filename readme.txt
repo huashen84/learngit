@@ -10,11 +10,3 @@ Git has a mutable index called stage.
 Git diff 命令
 -2200
 Git tracks changes.
-2022.06.22-1530
-Creating a new branch called dev.
-2022.06.24-0945
-Creating a new branch called dev.
--1650
-创建 devToGitee 分支，并 push 到 gitee.
-2022.06.30-0930
-Creating a new branch is quick & simple.
