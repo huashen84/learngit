@@ -9,3 +9,5 @@ Git tracks changes.
 branch - dev1
 branch - dev2
 // 之前 git push -u origin@gitee master 绑定过 origin@gitee，这次直接 git push 试试
+// 复习下，推到 github，git push origin@github master
+
